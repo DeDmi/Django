@@ -4,6 +4,7 @@ import os
 import sys
 
 #test
+#lsdkfldkdlkfdfl
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'lessons_django.settings')
